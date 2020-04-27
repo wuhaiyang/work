@@ -1,24 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T16:56:25.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="X-rk_lha5NMamw9AU0ND" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-27T02:22:10.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="vpNrzJG3HdQ5w0XEJ-Vh" version="12.9.14" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1868" dy="872" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="2200" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="648" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="2200" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;endSize=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;fontColor=#333333;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="851" y="220" as="sourcePoint" />
-            <mxPoint x="763" y="219" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="825" y="219" />
-              <mxPoint x="724" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-10" value="connect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontColor=#333333;" parent="YSEtTrgQB9kQa5Efw9kv-9" vertex="1" connectable="0">
-          <mxGeometry x="0.212" y="4" relative="1" as="geometry">
-            <mxPoint x="5" y="-16.939999999999998" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;comic=1;strokeColor=#333333;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="853" y="192" width="161" height="332" as="geometry" />
         </mxCell>
@@ -165,27 +150,33 @@
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-146" value="将最终page/component 参数传入" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;fillColor=#ffe6cc;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-117" target="YSEtTrgQB9kQa5Efw9kv-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-117" target="YSEtTrgQB9kQa5Efw9kv-147" edge="1">
+        <mxCell id="YSEtTrgQB9kQa5Efw9kv-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;" parent="1" target="YSEtTrgQB9kQa5Efw9kv-147" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1008" y="479" />
               <mxPoint x="1008" y="479" />
             </Array>
+            <mxPoint x="986" y="481" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-117" value="mapStore" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#333333;strokeWidth=1;align=center;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="881" y="473" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-149" value="return 注入后的&lt;br&gt;对象" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;fillColor=#ffe6cc;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-147" target="YSEtTrgQB9kQa5Efw9kv-117" edge="1">
-          <mxGeometry x="0.028" y="15" relative="1" as="geometry">
+        <mxCell id="YSEtTrgQB9kQa5Efw9kv-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;fillColor=#ffe6cc;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-147" target="YSEtTrgQB9kQa5Efw9kv-117" edge="1">
+          <mxGeometry x="-0.0654" y="-59" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1042" y="493" />
               <mxPoint x="1042" y="493" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-147" value="page 注入：&lt;br&gt;将store的实例函数、state 注入到page this 对象中" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#333333;strokeWidth=1;align=center;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="WhbJ7tNbe9SGmQ8DN1LH-4" value="&lt;span style=&quot;font-size: 1px&quot;&gt;return 注入后的&lt;/span&gt;&lt;br style=&quot;font-size: 1px&quot;&gt;&lt;span style=&quot;font-size: 1px&quot;&gt;对象&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YSEtTrgQB9kQa5Efw9kv-149">
+          <mxGeometry x="0.1963" y="2" relative="1" as="geometry">
+            <mxPoint x="15" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSEtTrgQB9kQa5Efw9kv-147" value="将store的实例函数、state 注入到App orPage 全局对象中" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#333333;strokeWidth=1;align=center;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1092" y="464.25" width="140" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-145" value="Page/Component({})" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#333333;strokeWidth=1;align=center;fontColor=#333333;" parent="1" vertex="1">
@@ -211,7 +202,7 @@
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-138" target="YSEtTrgQB9kQa5Efw9kv-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-138" value="1. mapMutations、mapActions 配置得alias 与store module中的mutations actions 函数进行映射、关联" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;align=left;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="YSEtTrgQB9kQa5Efw9kv-138" value="1. mapMutations、mapActions 配置的key 与store module中的mutations actions 函数进行映射、关联" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="605" y="332" width="160" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-139" value="2. 注入到page/component 函数中" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;align=left;verticalAlign=top;" parent="1" vertex="1">
@@ -228,6 +219,17 @@
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-152" value="const option = mapStore(mapAction(mapMutations(mapState(app))))&lt;br&gt;Page/Component(option)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;comic=1;fontSize=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="728" y="633" width="458" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="WhbJ7tNbe9SGmQ8DN1LH-1" value="" style="endArrow=classic;html=1;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;entryX=0.444;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;spacing=0;comic=1;fillColor=#ffe6cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="741" y="215" as="sourcePoint" />
+            <mxPoint x="848.6440000000002" y="215.28999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhbJ7tNbe9SGmQ8DN1LH-2" value="connect(options)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhbJ7tNbe9SGmQ8DN1LH-1">
+          <mxGeometry x="-0.1083" y="2" relative="1" as="geometry">
+            <mxPoint y="-11.13" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
