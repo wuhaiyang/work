@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-27T02:22:10.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="vpNrzJG3HdQ5w0XEJ-Vh" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-30T02:44:11.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="0qObv5McHBsGlK5IPQSk" version="13.0.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1186" dy="648" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="2200" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="646" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="2200" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,15 +24,17 @@
             <mxPoint x="-76.68" y="73.36999999999999" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=2;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;fillColor=#fff2cc;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-13" target="YSEtTrgQB9kQa5Efw9kv-115" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YSEtTrgQB9kQa5Efw9kv-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=2;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;fillColor=#fff2cc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-13" target="YSEtTrgQB9kQa5Efw9kv-116" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="933" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-121" value="call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=1;fontColor=#333333;" parent="YSEtTrgQB9kQa5Efw9kv-118" vertex="1" connectable="0">
           <mxGeometry x="-0.1719" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-13" value="&amp;nbsp; &amp;nbsp; mapState" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#333333;strokeWidth=1;align=center;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="YSEtTrgQB9kQa5Efw9kv-13" value="1. mapState&lt;br&gt;2. mapGetters" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#333333;strokeWidth=1;align=left;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="881" y="229" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=1;strokeColor=#333333;strokeWidth=1;fontColor=#333333;" parent="1" vertex="1">
@@ -135,17 +137,11 @@
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-108" value="PS: 组件函数方式：&lt;br&gt;1. methods;&lt;br&gt;2. didMount中 this.$fn = store.fn" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;comic=1;fontSize=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1417" y="429" width="114" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-122" value="call" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=2;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;fillColor=#fff2cc;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-115" target="YSEtTrgQB9kQa5Efw9kv-116" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-115" value="mapMutations" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#333333;strokeWidth=1;align=center;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="881" y="310" width="104" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-123" value="call" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=2;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;fillColor=#fff2cc;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-116" target="YSEtTrgQB9kQa5Efw9kv-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-116" value="mapActions" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#333333;strokeWidth=1;align=center;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="881" y="391" width="104" height="30" as="geometry" />
+        <mxCell id="YSEtTrgQB9kQa5Efw9kv-116" value="1. mapActions&lt;br&gt;2. mapMutations" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#333333;strokeWidth=1;align=left;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="881" y="345" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-146" value="将最终page/component 参数传入" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;fillColor=#ffe6cc;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-117" target="YSEtTrgQB9kQa5Efw9kv-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -171,7 +167,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WhbJ7tNbe9SGmQ8DN1LH-4" value="&lt;span style=&quot;font-size: 1px&quot;&gt;return 注入后的&lt;/span&gt;&lt;br style=&quot;font-size: 1px&quot;&gt;&lt;span style=&quot;font-size: 1px&quot;&gt;对象&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YSEtTrgQB9kQa5Efw9kv-149">
+        <mxCell id="WhbJ7tNbe9SGmQ8DN1LH-4" value="&lt;span style=&quot;font-size: 1px&quot;&gt;return 注入后的&lt;/span&gt;&lt;br style=&quot;font-size: 1px&quot;&gt;&lt;span style=&quot;font-size: 1px&quot;&gt;对象&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YSEtTrgQB9kQa5Efw9kv-149" vertex="1" connectable="0">
           <mxGeometry x="0.1963" y="2" relative="1" as="geometry">
             <mxPoint x="15" y="11" as="offset" />
           </mxGeometry>
@@ -193,42 +189,45 @@
             <mxPoint x="-76.68" y="73.36999999999999" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-129" target="YSEtTrgQB9kQa5Efw9kv-138" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YSEtTrgQB9kQa5Efw9kv-129" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;comic=1;fontSize=1;fontColor=#333333;rotation=-180;strokeColor=#333333;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="817" y="323" width="51" height="87" as="geometry" />
+        <mxCell id="YSEtTrgQB9kQa5Efw9kv-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="355" as="sourcePoint" />
+            <mxPoint x="776.36" y="354.47" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="828.36" y="354" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=4;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;" parent="1" source="YSEtTrgQB9kQa5Efw9kv-138" target="YSEtTrgQB9kQa5Efw9kv-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-138" value="1. mapMutations、mapActions 配置的key 与store module中的mutations actions 函数进行映射、关联" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="605" y="332" width="160" height="67.5" as="geometry" />
+          <mxGeometry x="618.36" y="320" width="160" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-139" value="2. 注入到page/component 函数中" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="622.5" y="452" width="125" height="56" as="geometry" />
+          <mxGeometry x="635.86" y="440" width="125" height="56" as="geometry" />
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-143" value="" style="endArrow=classic;html=1;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;entryX=0.444;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;spacing=0;comic=1;fillColor=#ffe6cc;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="768" y="382" as="sourcePoint" />
-            <mxPoint x="839.6440000000002" y="382.28999999999996" as="targetPoint" />
+            <mxPoint x="781.36" y="370" as="sourcePoint" />
+            <mxPoint x="853.0040000000002" y="370.28999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-144" value="return 注入后的构造对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;comic=1;fontSize=1;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="777" y="401" width="40" height="20" as="geometry" />
+          <mxGeometry x="790.36" y="389" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YSEtTrgQB9kQa5Efw9kv-152" value="const option = mapStore(mapAction(mapMutations(mapState(app))))&lt;br&gt;Page/Component(option)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;comic=1;fontSize=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="728" y="633" width="458" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="WhbJ7tNbe9SGmQ8DN1LH-1" value="" style="endArrow=classic;html=1;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;entryX=0.444;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;spacing=0;comic=1;fillColor=#ffe6cc;" edge="1" parent="1">
+        <mxCell id="WhbJ7tNbe9SGmQ8DN1LH-1" value="" style="endArrow=classic;html=1;strokeColor=#333333;strokeWidth=1;fontSize=1;fontColor=#333333;entryX=0.444;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;spacing=0;comic=1;fillColor=#ffe6cc;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="741" y="215" as="sourcePoint" />
+            <mxPoint x="709" y="213" as="sourcePoint" />
             <mxPoint x="848.6440000000002" y="215.28999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WhbJ7tNbe9SGmQ8DN1LH-2" value="connect(options)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhbJ7tNbe9SGmQ8DN1LH-1">
+        <mxCell id="WhbJ7tNbe9SGmQ8DN1LH-2" value="connect(extMap)(option)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WhbJ7tNbe9SGmQ8DN1LH-1" vertex="1" connectable="0">
           <mxGeometry x="-0.1083" y="2" relative="1" as="geometry">
-            <mxPoint y="-11.13" as="offset" />
+            <mxPoint x="7.98" y="-11.13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
