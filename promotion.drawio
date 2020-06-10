@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-10T17:17:34.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="zzrUi1ss3aGj74tuZJyZ" version="13.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-10T18:12:46.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="4DGDJBmtdOQ76qmKeWPz" version="13.1.3" type="github" pages="2">
   <diagram id="wGNWwgJgoCwC0jG4wGCJ" name="第 1 页">
     <mxGraphModel dx="2255" dy="2145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RSGCXDl1be-_-s18SJeO" name="插件化">
-    <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="sGAXCtGk8NQZ_SCbDOv5-0" />
         <mxCell id="sGAXCtGk8NQZ_SCbDOv5-1" parent="sGAXCtGk8NQZ_SCbDOv5-0" />
@@ -263,6 +263,9 @@
         <mxCell id="flBIckHXrqn5_zDC13zc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#333333;fontSize=13;fontColor=#333333;opacity=60;entryX=1.015;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sGAXCtGk8NQZ_SCbDOv5-1" source="SdMMw53TMcRDVDHch9Ap-0" target="fUTBjKsCdObSmfbrSuaB-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="681" y="461" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="653" y="462" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SdMMw53TMcRDVDHch9Ap-0" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px&quot;&gt;Mop 插件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d79b00;fillColor=#EA6B66;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
@@ -311,6 +314,21 @@
         </mxCell>
         <mxCell id="flBIckHXrqn5_zDC13zc-6" value="引流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontColor=#333333;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
           <mxGeometry x="382" y="400" width="38" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="0hjtXXsiJJn6nXtYCbco-0" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px&quot;&gt;动态化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="274" y="747" width="146" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0hjtXXsiJJn6nXtYCbco-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px&quot;&gt;热插拔&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="274" y="824" width="146" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0hjtXXsiJJn6nXtYCbco-2" value="发布解耦" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="272" y="902" width="146" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0hjtXXsiJJn6nXtYCbco-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;dashPattern=1 4;strokeColor=#333333;fillColor=#ffffff;gradientColor=none;fontSize=13;fontColor=#333333;opacity=80;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="464" y="824" width="65" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="0hjtXXsiJJn6nXtYCbco-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;1.&amp;nbsp; 业务独立化复用能力提升（被订购），不影响主体小程序包大小&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;2. 研发效率更高，适合跨BU合作&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fontSize=16;fontColor=#333333;opacity=80;fontStyle=1" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="553" y="753" width="249" height="212" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
