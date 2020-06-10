@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-10T11:40:52.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="XvxdfIc5A7DiaZEfJaHH" version="13.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-10T11:50:31.485Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="70F1WKKKLkJZJXL5aRSJ" version="13.1.3" type="github" pages="2">
   <diagram id="wGNWwgJgoCwC0jG4wGCJ" name="第 1 页">
     <mxGraphModel dx="2255" dy="2145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -194,6 +194,24 @@
         </mxCell>
         <mxCell id="CZNGlVrKEzRFkM5Kss_T-33" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;span&gt;&lt;b&gt;业务小程序壳子工程&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="437" y="-154" width="208" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CZNGlVrKEzRFkM5Kss_T-40" value="" style="endArrow=none;html=1;fontSize=16;fontColor=#333333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-475" y="1290" as="sourcePoint" />
+            <mxPoint x="-332" y="1126" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZNGlVrKEzRFkM5Kss_T-41" value="" style="endArrow=none;html=1;fontSize=16;fontColor=#333333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-248" y="1286" as="sourcePoint" />
+            <mxPoint x="-112" y="1126" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZNGlVrKEzRFkM5Kss_T-42" value="" style="endArrow=none;html=1;fontSize=16;fontColor=#333333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-476" y="1292" as="sourcePoint" />
+            <mxPoint x="-247" y="1286" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
