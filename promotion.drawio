@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-16T09:47:05.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="KWf9uSLKumdJL7SElA1O" version="13.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-16T10:23:28.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="sOFTV_sQ1x-pr1a15Hwd" version="13.2.4" type="github" pages="2">
   <diagram id="wGNWwgJgoCwC0jG4wGCJ" name="小程序建设">
     <mxGraphModel dx="2381" dy="1988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -841,7 +841,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RSGCXDl1be-_-s18SJeO" name="插件化">
-    <mxGraphModel dx="1311" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="2097" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="sGAXCtGk8NQZ_SCbDOv5-0" />
         <mxCell id="sGAXCtGk8NQZ_SCbDOv5-1" parent="sGAXCtGk8NQZ_SCbDOv5-0" />
@@ -1325,22 +1325,45 @@
         <mxCell id="8vtUnIvmrrBIzg8HUqUS-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=7.17;dx=33.67;arrowHead=55;fillColor=none;opacity=60;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
           <mxGeometry x="1104" y="5413" width="102" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="8vtUnIvmrrBIzg8HUqUS-40" value="" style="endArrow=classic;html=1;dashed=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="sGAXCtGk8NQZ_SCbDOv5-1" source="8vtUnIvmrrBIzg8HUqUS-13">
+        <mxCell id="8vtUnIvmrrBIzg8HUqUS-40" value="" style="endArrow=none;html=1;dashed=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sGAXCtGk8NQZ_SCbDOv5-1" source="8vtUnIvmrrBIzg8HUqUS-13" target="8vtUnIvmrrBIzg8HUqUS-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1464.72" y="5068.93" as="sourcePoint" />
-            <mxPoint x="1610.72" y="5412.93" as="targetPoint" />
+            <mxPoint x="1864" y="5077" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1517" y="4941" />
-              <mxPoint x="1658" y="4941" />
-              <mxPoint x="1658" y="5413" />
+              <mxPoint x="1754" y="4941" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vtUnIvmrrBIzg8HUqUS-42" value="&lt;b&gt;编译时注入&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;opacity=70;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
-          <mxGeometry x="1668" y="5167" width="121.5" height="20" as="geometry" />
+        <mxCell id="8vtUnIvmrrBIzg8HUqUS-46" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;fontSize=14;fontColor=#333333;opacity=70;align=center;dashed=1;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="1621" y="5076" width="265" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="8vtUnIvmrrBIzg8HUqUS-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=60;dashed=1;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
-          <mxGeometry x="1789.5" y="4965" width="386" height="432" as="geometry" />
+        <mxCell id="8vtUnIvmrrBIzg8HUqUS-47" value="gulp jsTask 编译时注入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;fontColor=#333333;fontStyle=1" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="1621" y="5086" width="246" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8vtUnIvmrrBIzg8HUqUS-48" value="&lt;div style=&quot;background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; line-height: 18px&quot;&gt;&lt;div style=&quot;line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 13px ; line-height: 20px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 20px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-size: 18px ; line-height: 27px&quot;&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 27px&quot;&gt;require(&lt;span style=&quot;color: #a31515&quot;&gt;&#39;init.js&#39;&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FFFFFF;opacity=90;fontStyle=0;textOpacity=80;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="1649" y="5123" width="208" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8vtUnIvmrrBIzg8HUqUS-51" value="" style="endArrow=classic;html=1;dashed=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sGAXCtGk8NQZ_SCbDOv5-1" source="8vtUnIvmrrBIzg8HUqUS-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1862" y="5210.93" as="sourcePoint" />
+            <mxPoint x="1601" y="5403.93" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1753" y="5404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vtUnIvmrrBIzg8HUqUS-53" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1998" y="5146" as="sourcePoint" />
+            <mxPoint x="1886" y="5145.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vtUnIvmrrBIzg8HUqUS-54" value="&lt;b style=&quot;font-size: 17px&quot;&gt;mock 能力支持&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;opacity=70;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="1904" y="5110.5" width="72" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8vtUnIvmrrBIzg8HUqUS-56" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; line-height: 18px&quot;&gt;&lt;div style=&quot;line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 13px ; line-height: 20px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 20px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 18px ; line-height: 27px&quot;&gt;&lt;div&gt;$_app.$context&amp;nbsp;=&amp;nbsp;{&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;mockData:&amp;nbsp;require(&lt;span style=&quot;color: #a31515&quot;&gt;&quot;./mock/index&quot;&lt;/span&gt;),&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;isPlugin:&amp;nbsp;&lt;span style=&quot;color: #0000ff&quot;&gt;true&lt;/span&gt;&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FFFFFF;opacity=90;fontStyle=0;textOpacity=80;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="2003" y="5082.5" width="400" height="118.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
