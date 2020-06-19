@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T11:29:48.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="apGkhCUGZ6KnuR38PPjn" version="13.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-19T11:30:05.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="yI0UpnbzeS0iV1h1XjMs" version="13.2.4" type="github" pages="2">
   <diagram id="wGNWwgJgoCwC0jG4wGCJ" name="小程序建设">
     <mxGraphModel dx="2411" dy="2064" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -845,12 +845,6 @@
         </mxCell>
         <mxCell id="yRvZKVPy7zQM5pyxNXAS-2" value="首屏丢帧" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;align=center;" vertex="1" parent="1">
           <mxGeometry x="-213" y="6890" width="154" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="yRvZKVPy7zQM5pyxNXAS-4" value="jsapi 调用频繁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-364" y="6716" width="171" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="yRvZKVPy7zQM5pyxNXAS-5" value="jsapi 调用频繁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-126.5" y="6716" width="171" height="57" as="geometry" />
         </mxCell>
         <mxCell id="yRvZKVPy7zQM5pyxNXAS-6" value="jsapi 调用频繁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;align=center;" vertex="1" parent="1">
           <mxGeometry x="-16.67" y="6890" width="159.17" height="58" as="geometry" />
