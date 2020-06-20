@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T15:03:56.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="ESQBhMHjhrK2lIrtd4dV" version="13.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-20T15:35:47.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="shfEhwY6p1ZyxXpcyfHo" version="13.3.0" type="github" pages="2">
   <diagram id="wGNWwgJgoCwC0jG4wGCJ" name="小程序建设">
     <mxGraphModel dx="1983" dy="1939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -1195,12 +1195,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RSGCXDl1be-_-s18SJeO" name="插件化">
-    <mxGraphModel dx="1577" dy="985" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="1977" dy="985" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="sGAXCtGk8NQZ_SCbDOv5-0" />
         <mxCell id="sGAXCtGk8NQZ_SCbDOv5-1" parent="sGAXCtGk8NQZ_SCbDOv5-0" />
         <mxCell id="ZXBZu3xge_KkTS6L98Sd-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;fontSize=22;strokeColor=none;opacity=60;textOpacity=90;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
-          <mxGeometry x="1058.5" y="6914" width="549.5" height="273" as="geometry" />
+          <mxGeometry x="1042.25" y="7129" width="549.5" height="273" as="geometry" />
         </mxCell>
         <mxCell id="PIv3QozzlZKNlm1ZIJOQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=none;gradientColor=none;fontSize=14;fontColor=#333333;opacity=70;align=center;dashed=1;" parent="sGAXCtGk8NQZ_SCbDOv5-1" vertex="1">
           <mxGeometry x="1226" y="5861" width="590" height="435" as="geometry" />
@@ -1874,22 +1874,22 @@
           <mxGeometry x="1365" y="5870" width="274" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LomLl97XAWZ050qwuN8_-0" value="alsc-plugin-cli" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;opacity=70;direction=east;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
-          <mxGeometry x="1079" y="7120" width="227" height="52" as="geometry" />
+          <mxGeometry x="1062.75" y="7335" width="227" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LomLl97XAWZ050qwuN8_-1" value="alsc-mor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;align=center;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
-          <mxGeometry x="1354" y="7120" width="227" height="52" as="geometry" />
+          <mxGeometry x="1337.75" y="7335" width="227" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LomLl97XAWZ050qwuN8_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=14;fontColor=#333333;opacity=70;align=center;dashed=1;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
-          <mxGeometry x="1080" y="6941" width="503" height="163" as="geometry" />
+          <mxGeometry x="1063.75" y="7156" width="503" height="163" as="geometry" />
         </mxCell>
         <mxCell id="LomLl97XAWZ050qwuN8_-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;餐饮组件库&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#7EA6E0;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
-          <mxGeometry x="1098" y="7033" width="465" height="52" as="geometry" />
+          <mxGeometry x="1081.75" y="7248" width="465" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LomLl97XAWZ050qwuN8_-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;平台通用点餐小程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#7EA6E0;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
-          <mxGeometry x="1098" y="6961" width="202" height="52" as="geometry" />
+          <mxGeometry x="1081.75" y="7176" width="202" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LomLl97XAWZ050qwuN8_-8" value="&lt;span style=&quot;font-size: 16px&quot;&gt;品牌KA商家小程序插件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#7EA6E0;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
-          <mxGeometry x="1361" y="6959" width="202" height="52" as="geometry" />
+          <mxGeometry x="1344.75" y="7174" width="202" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LomLl97XAWZ050qwuN8_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;fontSize=22;strokeColor=none;textOpacity=90;opacity=90;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
           <mxGeometry x="642.5" y="7999" width="871.5" height="757" as="geometry" />
