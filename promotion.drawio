@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T09:27:43.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="aGbWtNu343yHO_gT48aD" version="13.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-20T10:48:30.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="qAYMjqyz6uuLmQIoFZFE" version="13.3.0" type="github" pages="2">
   <diagram id="wGNWwgJgoCwC0jG4wGCJ" name="小程序建设">
-    <mxGraphModel dx="1983" dy="1939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="2283" dy="1939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1885,6 +1885,9 @@
         </mxCell>
         <mxCell id="LomLl97XAWZ050qwuN8_-8" value="&lt;span style=&quot;font-size: 16px&quot;&gt;品牌KA商家小程序插件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#7EA6E0;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
           <mxGeometry x="901" y="7799" width="202" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="LomLl97XAWZ050qwuN8_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;fontSize=22;strokeColor=none;opacity=60;textOpacity=90;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="682" y="8348" width="686" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
