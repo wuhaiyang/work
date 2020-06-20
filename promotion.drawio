@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T17:09:45.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="NGrYgl7Nf6LSg_Iqg8iM" version="13.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-20T09:27:43.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="aGbWtNu343yHO_gT48aD" version="13.3.0" type="github" pages="2">
   <diagram id="wGNWwgJgoCwC0jG4wGCJ" name="小程序建设">
-    <mxGraphModel dx="2283" dy="1939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="1983" dy="1939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1195,10 +1195,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RSGCXDl1be-_-s18SJeO" name="插件化">
-    <mxGraphModel dx="1186" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="695" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="sGAXCtGk8NQZ_SCbDOv5-0" />
         <mxCell id="sGAXCtGk8NQZ_SCbDOv5-1" parent="sGAXCtGk8NQZ_SCbDOv5-0" />
+        <mxCell id="ZXBZu3xge_KkTS6L98Sd-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;fontSize=22;strokeColor=none;opacity=60;textOpacity=90;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="598.5" y="7754" width="549.5" height="273" as="geometry" />
+        </mxCell>
         <mxCell id="PIv3QozzlZKNlm1ZIJOQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=none;gradientColor=none;fontSize=14;fontColor=#333333;opacity=70;align=center;dashed=1;" parent="sGAXCtGk8NQZ_SCbDOv5-1" vertex="1">
           <mxGeometry x="1226" y="5861" width="590" height="435" as="geometry" />
         </mxCell>
@@ -1761,7 +1764,7 @@
           <mxGeometry x="1117" y="6059" width="67.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aRNF3utDLWEB1RUihqns-17" value="1.&amp;nbsp; 重点变更验证对象：餐饮业务性强的组件，变更频繁&amp;nbsp;&amp;nbsp;&lt;br&gt;2.&amp;nbsp; 构造组件业务数据成本高&lt;br&gt;3.&amp;nbsp;&amp;nbsp;&lt;br&gt;==&amp;gt; 不适合 新建壳子工程&amp;nbsp;&lt;br&gt;&lt;br&gt;1. 软链方案：&lt;br&gt;&amp;nbsp; &amp;nbsp; 1.1.&amp;nbsp; 开发成本高，流程繁琐。&lt;br&gt;&amp;nbsp; &amp;nbsp; 1.2. 小程序构建时 不支持软链&lt;br&gt;&lt;br&gt;本地依赖方案" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=15;opacity=70;" parent="sGAXCtGk8NQZ_SCbDOv5-1" vertex="1">
-          <mxGeometry x="465" y="7299" width="518" height="217" as="geometry" />
+          <mxGeometry x="510" y="7100" width="518" height="217" as="geometry" />
         </mxCell>
         <mxCell id="aRNF3utDLWEB1RUihqns-19" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;组件业务性强&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#7EA6E0;fontSize=22;align=center;fontColor=#FFFFFF;" parent="sGAXCtGk8NQZ_SCbDOv5-1" vertex="1">
           <mxGeometry x="523" y="6145" width="171" height="63" as="geometry" />
@@ -1864,6 +1867,24 @@
         </mxCell>
         <mxCell id="Gmm-jsV6BHGVrW3pq6rL-26" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; ; font-size: 24px&quot;&gt;global/@ali/catering-component&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;align=center;" parent="sGAXCtGk8NQZ_SCbDOv5-1" vertex="1">
           <mxGeometry x="1365" y="5870" width="274" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LomLl97XAWZ050qwuN8_-0" value="alsc-plugin-cli" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;opacity=70;direction=east;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="619" y="7960" width="227" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="LomLl97XAWZ050qwuN8_-1" value="alsc-mor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;fillColor=#6d8764;fontColor=#ffffff;opacity=80;align=center;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="894" y="7960" width="227" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="LomLl97XAWZ050qwuN8_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=14;fontColor=#333333;opacity=70;align=center;dashed=1;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="620" y="7781" width="503" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="LomLl97XAWZ050qwuN8_-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;餐饮组件库&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#7EA6E0;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="638" y="7873" width="465" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="LomLl97XAWZ050qwuN8_-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;平台通用点餐小程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#7EA6E0;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="638" y="7801" width="202" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="LomLl97XAWZ050qwuN8_-8" value="&lt;span style=&quot;font-size: 16px&quot;&gt;品牌KA商家小程序插件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#7EA6E0;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="sGAXCtGk8NQZ_SCbDOv5-1">
+          <mxGeometry x="901" y="7799" width="202" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
