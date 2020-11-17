@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T11:20:53.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="a4gzlT2pS7650LgLQFtt" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T11:54:31.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="g5XOfyHotsk8ifz_cE4V" version="13.9.9" type="github">
   <diagram id="wJ10x5JF8MDACN2bpLX_" name="第 1 页">
-    <mxGraphModel dx="1997" dy="1326" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="2518" dy="3388" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -781,7 +781,7 @@
           <mxGeometry x="646" y="2288" width="100" height="1173" as="geometry" />
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontColor=#333333;" vertex="1" parent="C7PCORGCa17e4cKWiYXe-5">
-          <mxGeometry x="45" y="430" width="10" height="77" as="geometry" />
+          <mxGeometry x="45" y="461" width="10" height="61" as="geometry" />
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontColor=#333333;" vertex="1" parent="C7PCORGCa17e4cKWiYXe-5">
           <mxGeometry x="45" y="591" width="10" height="542" as="geometry" />
@@ -790,7 +790,7 @@
           <mxGeometry x="44.5" y="100" width="10" height="169" as="geometry" />
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontColor=#333333;" vertex="1" parent="C7PCORGCa17e4cKWiYXe-5">
-          <mxGeometry x="45.5" y="298" width="10" height="109" as="geometry" />
+          <mxGeometry x="45.5" y="298" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-9" value="星星兑换插件 MSVAPlugin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1061" y="2288" width="100" height="1175" as="geometry" />
@@ -1075,12 +1075,12 @@
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-106" value="lastPlan = res" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1.2;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="701.5" y="2507" as="sourcePoint" />
+            <mxPoint x="701.5" y="2503" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="726.5" y="2507" />
-              <mxPoint x="726.5" y="2528" />
+              <mxPoint x="726.5" y="2503" />
+              <mxPoint x="726.5" y="2524" />
             </Array>
-            <mxPoint x="703.5" y="2528.040000000001" as="targetPoint" />
+            <mxPoint x="703.5" y="2524.040000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-107" value="res = {&amp;nbsp;&lt;font&gt;lastPlan || optimalPlan&lt;/font&gt;&amp;nbsp;}" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="1">
@@ -1104,12 +1104,12 @@
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-111" value="&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1.2;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="702.5" y="2635" as="sourcePoint" />
+            <mxPoint x="702.5" y="2627" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="727.5" y="2635" />
-              <mxPoint x="727.5" y="2656" />
+              <mxPoint x="727.5" y="2627" />
+              <mxPoint x="727.5" y="2648" />
             </Array>
-            <mxPoint x="704.5" y="2656.040000000001" as="targetPoint" />
+            <mxPoint x="704.5" y="2648.040000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-116" value="&amp;nbsp;5.5:&amp;nbsp; lastPlan = curPlan" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1.2;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;" edge="1" parent="1">
@@ -1143,12 +1143,12 @@
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-121" value="&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1.2;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="702.5" y="2667" as="sourcePoint" />
+            <mxPoint x="702.5" y="2656" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="727.5" y="2667" />
-              <mxPoint x="727.5" y="2688" />
+              <mxPoint x="727.5" y="2656" />
+              <mxPoint x="727.5" y="2677" />
             </Array>
-            <mxPoint x="704.5" y="2688.040000000001" as="targetPoint" />
+            <mxPoint x="704.5" y="2677.040000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-123" value="res = {&amp;nbsp;&lt;font&gt;lastPlan || optimalPlan&lt;/font&gt;&amp;nbsp;}" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="1">
@@ -1157,11 +1157,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-126" value="不展示菜品抵扣 + 刷新星星状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="817.5" y="2645" as="geometry" />
+          <mxGeometry x="815.5" y="2638" as="geometry" />
         </mxCell>
         <mxCell id="C7PCORGCa17e4cKWiYXe-127" value="lastPlan = res" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="762" y="2682" as="geometry">
+          <mxGeometry x="759.5" y="2670" as="geometry">
             <mxPoint x="7" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7PCORGCa17e4cKWiYXe-128" value="updateLocalStorage" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1.2;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="701.5" y="2532" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="726.5" y="2532" />
+              <mxPoint x="726.5" y="2553" />
+            </Array>
+            <mxPoint x="703.5" y="2553.040000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7PCORGCa17e4cKWiYXe-129" value="&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1.2;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="703" y="2693" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="728" y="2693" />
+              <mxPoint x="728" y="2714" />
+            </Array>
+            <mxPoint x="705" y="2714.040000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7PCORGCa17e4cKWiYXe-130" value="updateLocalStorage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1045" y="2594" as="geometry">
+            <mxPoint x="-262" y="107" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7PCORGCa17e4cKWiYXe-131" value="&amp;nbsp;6:&amp;nbsp; updateLocalStorage" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1.2;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="702" y="3395" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="727" y="3395" />
+              <mxPoint x="727" y="3416" />
+            </Array>
+            <mxPoint x="704" y="3416.040000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
