@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T09:01:23.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XZhD_gWW5Qc1J0xdsLY6" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-10T09:22:34.043Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="-wRweBE3JN7q5LDY8PDP" version="14.1.9" type="github">
   <diagram id="wJ10x5JF8MDACN2bpLX_" name="第 1 页">
-    <mxGraphModel dx="1676" dy="1136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2022,8 +2022,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-8" target="xHDySf0-of3Esuf31iBA-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-8" target="xHDySf0-of3Esuf31iBA-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-8" target="xHDySf0-of3Esuf31iBA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xHDySf0-of3Esuf31iBA-8" value="1919" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2076" y="6093" width="119" height="34" as="geometry" />
+          <mxGeometry x="2077" y="6094" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xHDySf0-of3Esuf31iBA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-9" target="xHDySf0-of3Esuf31iBA-14">
           <mxGeometry relative="1" as="geometry" />
@@ -2069,11 +2078,44 @@
         <mxCell id="xHDySf0-of3Esuf31iBA-24" value="1. 负责整个点餐组件化方案设计 &amp;amp; 落地实现；&lt;br&gt;2. 负责通用功能组件的重构以及抽取；&lt;br&gt;3. 组件体验优化方面，除了常规优化之外，基于分批+懒渲染、分类联动重构方案 整个首屏体感耗时降低1s&amp;nbsp;&lt;br&gt;项目成果：&lt;br&gt;1. 沉淀餐饮服务组件市场，平台点餐、kfc666桶点餐已经接入使用&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;strokeColor=#464747;align=left;" vertex="1" parent="1">
           <mxGeometry x="887" y="6349.25" width="274" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-26" value="1.&amp;nbsp; 负责点餐插件化研发支撑0-&amp;gt;1 建设；主要是解决插件框架侧限制和插件编译构建研发体验问题；&lt;br&gt;2. 研发提效方面：&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;2.1. 负责alsc-plugin-cli 插件预编译工具的配套工具建设：接入alsc-mor适配点餐插件投放到微信侧；多环境预览以及一键上传多端体验包能力；&lt;br&gt;&amp;nbsp;2.2. 一码多KA 建设：主题样式规范、功能差异配置抽象化 以及基于原先组件化 实现多业务形态组件来满足KA定制诉求；&lt;br&gt;&amp;nbsp;2.3. 为了降低KA接入成本，实现了小程序插件Web配置预览平台，后续KA接入时只需要让产品or运营配置即可完成，业务小程序无须改动代码；&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;1.&amp;nbsp;&lt;li&gt;业务：多家头部品牌KA订购自提点餐插件服务；日订单量&lt;strong&gt;10w+&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;技术：沉淀本地生活小程序插件预编译工具&lt;code style=&quot;font-size: inherit ; background-color: rgba(0 , 0 , 0 , 0.06) ; padding: 0px 2px ; border: 1px solid rgba(0 , 0 , 0 , 0.08) ; border-radius: 2px ; line-height: inherit ; overflow-wrap: break-word&quot;&gt;alsc-plugin-cli&lt;/code&gt;,目前已接入新的kbworkcenter构建平台&lt;/li&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-26" value="1.&amp;nbsp; 负责点餐插件化研发支撑0-&amp;gt;1 建设；主要是解决插件框架侧限制和插件编译构建研发体验问题；&lt;br&gt;2. 研发提效方面：&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;2.1. 负责alsc-plugin-cli 插件预编译工具的配套工具建设：接入alsc-mor适配点餐插件投放到微信侧；多环境预览以及一键上传多端体验包能力；&lt;br&gt;&amp;nbsp;2.2. 一码多KA 建设：主题样式规范、功能差异配置抽象化 以及基于原先组件化 实现多业务形态组件来满足KA定制诉求；&lt;br&gt;&amp;nbsp;2.3. 为了降低KA接入成本，实现了小程序插件Web配置预览平台，后续KA接入时只需要让产品or运营配置即可完成，业务小程序无须改动代码；&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;1.&amp;nbsp;&lt;span&gt;业务：多家头部品牌KA订购自提点餐插件服务；日订单量&lt;/span&gt;&lt;strong&gt;10w+&lt;br&gt;&lt;/strong&gt;&lt;span&gt;2. 技术：沉淀本地生活小程序插件预编译工具&lt;/span&gt;&lt;code style=&quot;font-size: inherit ; background-color: rgba(0 , 0 , 0 , 0.06) ; padding: 0px 2px ; border: 1px solid rgba(0 , 0 , 0 , 0.08) ; border-radius: 2px ; line-height: inherit ; overflow-wrap: break-word&quot;&gt;alsc-plugin-cli&lt;/code&gt;&lt;span&gt;,目前已接入新的kbworkcenter构建平台&lt;/span&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1192" y="6349.25" width="293.25" height="279.25" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-28" value="1. 负责日常店铺小程序功能需求开发、研发提效方面工作；&lt;br&gt;2.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1654.5" y="6277" width="120" height="60" as="geometry" />
+        <mxCell id="xHDySf0-of3Esuf31iBA-28" value="1. 负责日常店铺小程序功能需求开发、研发提效方面工作；&lt;br&gt;2. 正在建设中的店铺小程序动态投放能力；" style="whiteSpace=wrap;html=1;rounded=0;align=left;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1644.25" y="6286" width="140.5" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-30" target="xHDySf0-of3Esuf31iBA-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-30" value="1. 负责公司移动客户端组件化落地实现" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1877" y="6176" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-32" target="xHDySf0-of3Esuf31iBA-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-32" value="3. 项目热修复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2364" y="6175" width="118" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-34" target="xHDySf0-of3Esuf31iBA-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-34" value="2. dl-pack 移动端编包工具建设" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2147" y="6178" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-36" value="1. 组件化方案设计 &amp;amp; 落地实现：&lt;br&gt;&amp;nbsp; 1.1 自定义gradle-plugin 解决祖籍爱你独立开发调试问题、自定义Transform并结合Javassit工具解决组件库声明周期监听；&lt;br&gt;&amp;nbsp; 1.2 基于javaSPI 基于解决组件之间交互；接入开源方案arouter 实现跨组件跳转&lt;br&gt;2. 负责核心功能组件开发 比如：网络库、公共通用自定义view视图等&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;沉淀了25+通用基础组件库，公司其他产品先均在使用；" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1829.5" y="6289" width="215" height="215.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-38" value="1. 负责整个打包平台实现；&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;1. 提升开发效率，繁琐可循的打包转移给测试" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2122" y="6286" width="216" height="225.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-40" value="1. 负责接入tinker&lt;br&gt;2. 负责热补丁管理平台开发 包括补丁接口&lt;br&gt;&lt;br&gt;项目成果：发现问题能够及时修复，线上bug反馈率降低55%" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2394" y="6286" width="181" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-42" value="主要是负责一些基础平台建设工作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2157" y="6128" width="229" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-43" value="除了业务线开发、还负责一些研发提效工具以及性能优化工作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="6176" width="229" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
