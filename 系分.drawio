@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T08:29:23.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="zNXZorsldlRfyeIWB6uR" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-10T09:01:23.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XZhD_gWW5Qc1J0xdsLY6" version="14.1.9" type="github">
   <diagram id="wJ10x5JF8MDACN2bpLX_" name="第 1 页">
     <mxGraphModel dx="1676" dy="1136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -1876,118 +1876,118 @@
           <mxGeometry x="784" y="5628" width="172" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;cateringlife&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="211" y="6242" width="125" height="38" as="geometry" />
+          <mxGeometry x="139" y="6234" width="125" height="38" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;koubei_ma-store_xxx&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="39" y="6414" width="125" height="38" as="geometry" />
+          <mxGeometry x="-33" y="6406" width="125" height="38" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-3" value="" style="endArrow=classic;html=1;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="109" y="6405" as="sourcePoint" />
-            <mxPoint x="220" y="6293" as="targetPoint" />
+            <mxPoint x="37" y="6397" as="sourcePoint" />
+            <mxPoint x="148" y="6285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;koubei-store-template&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="215" y="6414" width="125" height="36" as="geometry" />
+          <mxGeometry x="143" y="6406" width="125" height="36" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;koubei-store-template-pages&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="398" y="6415" width="125" height="36" as="geometry" />
+          <mxGeometry x="326" y="6407" width="125" height="36" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-6" value="" style="endArrow=classic;html=1;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="277" y="6394" as="sourcePoint" />
-            <mxPoint x="277" y="6297" as="targetPoint" />
+            <mxPoint x="205" y="6386" as="sourcePoint" />
+            <mxPoint x="205" y="6289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-7" value="" style="endArrow=classic;html=1;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="452" y="6402" as="sourcePoint" />
-            <mxPoint x="330" y="6296" as="targetPoint" />
+            <mxPoint x="380" y="6394" as="sourcePoint" />
+            <mxPoint x="258" y="6288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-10" value="" style="endArrow=classic;html=1;endFill=1;startArrow=none;startFill=0;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="6475" as="sourcePoint" />
-            <mxPoint x="456" y="6475" as="targetPoint" />
+            <mxPoint x="26" y="6467" as="sourcePoint" />
+            <mxPoint x="384" y="6467" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="98" y="6540" />
-              <mxPoint x="456" y="6540" />
+              <mxPoint x="26" y="6532" />
+              <mxPoint x="384" y="6532" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;koubei-miniapp-config&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="42" y="6643" width="125" height="36" as="geometry" />
+          <mxGeometry x="-30" y="6635" width="125" height="36" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;koubei-store-component&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="396" y="6643" width="125" height="36" as="geometry" />
+          <mxGeometry x="324" y="6635" width="125" height="36" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-13" value="" style="endArrow=classic;html=1;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="501" y="6627" as="sourcePoint" />
-            <mxPoint x="501" y="6474" as="targetPoint" />
+            <mxPoint x="429" y="6619" as="sourcePoint" />
+            <mxPoint x="429" y="6466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-14" value="" style="endArrow=classic;html=1;endFill=1;startArrow=none;startFill=0;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="118" y="6630" as="sourcePoint" />
-            <mxPoint x="476" y="6474" as="targetPoint" />
+            <mxPoint x="46" y="6622" as="sourcePoint" />
+            <mxPoint x="404" y="6466" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="117.75" y="6601" />
-              <mxPoint x="293.75" y="6601" />
-              <mxPoint x="475.75" y="6601" />
+              <mxPoint x="45.75" y="6593" />
+              <mxPoint x="221.75" y="6593" />
+              <mxPoint x="403.75" y="6593" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-15" value="" style="endArrow=classic;html=1;endFill=1;startArrow=none;startFill=0;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="99" y="6629" as="sourcePoint" />
-            <mxPoint x="281" y="6456" as="targetPoint" />
+            <mxPoint x="27" y="6621" as="sourcePoint" />
+            <mxPoint x="209" y="6448" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="98.75" y="6583" />
-              <mxPoint x="280.75" y="6583" />
+              <mxPoint x="26.75" y="6575" />
+              <mxPoint x="208.75" y="6575" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;kobex套件/tracert/exlog ....&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="208" y="6737" width="139" height="38" as="geometry" />
+          <mxGeometry x="136" y="6729" width="139" height="38" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-18" value="店铺业务相关组件库公共依赖，&lt;br&gt;目前依赖方版本均一致避免冗余" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="203" y="6781" width="178" height="32" as="geometry" />
+          <mxGeometry x="131" y="6773" width="178" height="32" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-19" value="仅在开发调试依赖" style="endArrow=classic;html=1;endFill=1;startArrow=none;startFill=0;dashed=1;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry x="-0.026" y="9" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="114" y="6471" as="sourcePoint" />
-            <mxPoint x="253" y="6461" as="targetPoint" />
+            <mxPoint x="42" y="6463" as="sourcePoint" />
+            <mxPoint x="181" y="6453" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="114" y="6526" />
-              <mxPoint x="253" y="6526" />
+              <mxPoint x="42" y="6518" />
+              <mxPoint x="181" y="6518" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-20" value="" style="endArrow=classic;html=1;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="488" y="6632" as="sourcePoint" />
-            <mxPoint x="309" y="6459" as="targetPoint" />
+            <mxPoint x="416" y="6624" as="sourcePoint" />
+            <mxPoint x="237" y="6451" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="488" y="6573" />
-              <mxPoint x="309" y="6573" />
+              <mxPoint x="416" y="6565" />
+              <mxPoint x="237" y="6565" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-21" value="" style="endArrow=classic;html=1;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="76" y="6629" as="sourcePoint" />
-            <mxPoint x="76" y="6473" as="targetPoint" />
+            <mxPoint x="4" y="6621" as="sourcePoint" />
+            <mxPoint x="4" y="6465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-22" value="koubei-content-components" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-136" y="6643" width="125" height="36" as="geometry" />
+          <mxGeometry x="-208" y="6635" width="125" height="36" as="geometry" />
         </mxCell>
         <mxCell id="cyZ4TD98WuCdWZ2pXBlH-23" value="" style="endArrow=classic;html=1;strokeColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-73" y="6633" as="sourcePoint" />
-            <mxPoint x="62" y="6472" as="targetPoint" />
+            <mxPoint x="-145" y="6625" as="sourcePoint" />
+            <mxPoint x="-10" y="6464" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xHDySf0-of3Esuf31iBA-1" value="工作经历" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2028,11 +2028,22 @@
         <mxCell id="xHDySf0-of3Esuf31iBA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-9" target="xHDySf0-of3Esuf31iBA-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xHDySf0-of3Esuf31iBA-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1107" y="6230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-9" target="xHDySf0-of3Esuf31iBA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xHDySf0-of3Esuf31iBA-9" value="餐饮自提业务线点餐小程序开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1047" y="6176" width="119" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-11" target="xHDySf0-of3Esuf31iBA-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xHDySf0-of3Esuf31iBA-11" value="口碑店铺小程序开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1476" y="6176" width="119" height="34" as="geometry" />
+          <mxGeometry x="1655" y="6176" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xHDySf0-of3Esuf31iBA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-14" target="xHDySf0-of3Esuf31iBA-16">
           <mxGeometry relative="1" as="geometry" />
@@ -2041,7 +2052,28 @@
           <mxGeometry x="801" y="6251" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="xHDySf0-of3Esuf31iBA-16" value="1. 负责购物车和整个下单链路小程序化；&lt;br&gt;2. 负责基于Lux状态管理方案解决多页面状态共享、组件间通信繁琐、业务逻辑模块耦合问题；过程中沉淀了一些实现原理文档并在组内分享&lt;br&gt;3. 此外，还负责推动点餐小程序投放到多端问题，除了推动基础侧解决外，还总结出一些多端共性问题解决方案并分享给组内其他业务团队使用；&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;dashed=1;strokeColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="712.5" y="6369" width="297" height="108.5" as="geometry" />
+          <mxGeometry x="526" y="6349.25" width="297" height="108.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-19" target="xHDySf0-of3Esuf31iBA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-19" value="点餐架构3.0升级：点餐插件化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="6250" width="131.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-21" target="xHDySf0-of3Esuf31iBA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-21" value="点餐架构2.0: 点餐组件化建设" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1047" y="6251" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-24" value="1. 负责整个点餐组件化方案设计 &amp;amp; 落地实现；&lt;br&gt;2. 负责通用功能组件的重构以及抽取；&lt;br&gt;3. 组件体验优化方面，除了常规优化之外，基于分批+懒渲染、分类联动重构方案 整个首屏体感耗时降低1s&amp;nbsp;&lt;br&gt;项目成果：&lt;br&gt;1. 沉淀餐饮服务组件市场，平台点餐、kfc666桶点餐已经接入使用&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;strokeColor=#464747;align=left;" vertex="1" parent="1">
+          <mxGeometry x="887" y="6349.25" width="274" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-26" value="1.&amp;nbsp; 负责点餐插件化研发支撑0-&amp;gt;1 建设；主要是解决插件框架侧限制和插件编译构建研发体验问题；&lt;br&gt;2. 研发提效方面：&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;2.1. 负责alsc-plugin-cli 插件预编译工具的配套工具建设：接入alsc-mor适配点餐插件投放到微信侧；多环境预览以及一键上传多端体验包能力；&lt;br&gt;&amp;nbsp;2.2. 一码多KA 建设：主题样式规范、功能差异配置抽象化 以及基于原先组件化 实现多业务形态组件来满足KA定制诉求；&lt;br&gt;&amp;nbsp;2.3. 为了降低KA接入成本，实现了小程序插件Web配置预览平台，后续KA接入时只需要让产品or运营配置即可完成，业务小程序无须改动代码；&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;1.&amp;nbsp;&lt;li&gt;业务：多家头部品牌KA订购自提点餐插件服务；日订单量&lt;strong&gt;10w+&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;技术：沉淀本地生活小程序插件预编译工具&lt;code style=&quot;font-size: inherit ; background-color: rgba(0 , 0 , 0 , 0.06) ; padding: 0px 2px ; border: 1px solid rgba(0 , 0 , 0 , 0.08) ; border-radius: 2px ; line-height: inherit ; overflow-wrap: break-word&quot;&gt;alsc-plugin-cli&lt;/code&gt;,目前已接入新的kbworkcenter构建平台&lt;/li&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1192" y="6349.25" width="293.25" height="279.25" as="geometry" />
+        </mxCell>
+        <mxCell id="xHDySf0-of3Esuf31iBA-28" value="1. 负责日常店铺小程序功能需求开发、研发提效方面工作；&lt;br&gt;2.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1654.5" y="6277" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
