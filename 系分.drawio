@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T07:34:32.683Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="o2CwZlqKIr5e_SpTpJEl" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T15:20:20.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="16fhcINalLfdleP1FCsy" version="14.4.4" type="github">
   <diagram id="wJ10x5JF8MDACN2bpLX_" name="第 1 页">
     <mxGraphModel dx="2466" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -1990,19 +1990,19 @@
             <mxPoint x="-10" y="6464" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-1" value="工作经历" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-1" value="工作经历" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1655" y="6001" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-5" target="xHDySf0-of3Esuf31iBA-9">
+        <mxCell id="xHDySf0-of3Esuf31iBA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xHDySf0-of3Esuf31iBA-5" target="xHDySf0-of3Esuf31iBA-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-5" target="xHDySf0-of3Esuf31iBA-11">
+        <mxCell id="xHDySf0-of3Esuf31iBA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xHDySf0-of3Esuf31iBA-5" target="xHDySf0-of3Esuf31iBA-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-5" value="口碑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-5" value="口碑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1262.25" y="6102" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-6" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1714" y="6035" as="sourcePoint" />
             <mxPoint x="1323" y="6100" as="targetPoint" />
@@ -2012,7 +2012,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1714" y="6035" as="sourcePoint" />
             <mxPoint x="2133" y="6094" as="targetPoint" />
@@ -2022,100 +2022,192 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-8" target="xHDySf0-of3Esuf31iBA-30">
+        <mxCell id="xHDySf0-of3Esuf31iBA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xHDySf0-of3Esuf31iBA-8" target="xHDySf0-of3Esuf31iBA-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-8" target="xHDySf0-of3Esuf31iBA-32">
+        <mxCell id="xHDySf0-of3Esuf31iBA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xHDySf0-of3Esuf31iBA-8" target="xHDySf0-of3Esuf31iBA-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-8" target="xHDySf0-of3Esuf31iBA-34">
+        <mxCell id="xHDySf0-of3Esuf31iBA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHDySf0-of3Esuf31iBA-8" target="xHDySf0-of3Esuf31iBA-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-8" value="1919" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-8" value="1919" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2077" y="6094" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-9" target="xHDySf0-of3Esuf31iBA-14">
+        <mxCell id="xHDySf0-of3Esuf31iBA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xHDySf0-of3Esuf31iBA-9" target="xHDySf0-of3Esuf31iBA-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xHDySf0-of3Esuf31iBA-19">
+        <mxCell id="xHDySf0-of3Esuf31iBA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="xHDySf0-of3Esuf31iBA-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1107" y="6230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-9" target="xHDySf0-of3Esuf31iBA-21">
+        <mxCell id="xHDySf0-of3Esuf31iBA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHDySf0-of3Esuf31iBA-9" target="xHDySf0-of3Esuf31iBA-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-9" value="餐饮自提业务线点餐小程序开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-9" value="餐饮自提业务线点餐小程序开发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1047" y="6176" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-11" target="xHDySf0-of3Esuf31iBA-28">
+        <mxCell id="xHDySf0-of3Esuf31iBA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHDySf0-of3Esuf31iBA-11" target="xHDySf0-of3Esuf31iBA-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-11" value="口碑店铺小程序开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-11" value="口碑店铺小程序开发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1655" y="6176" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-14" target="xHDySf0-of3Esuf31iBA-16">
+        <mxCell id="xHDySf0-of3Esuf31iBA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHDySf0-of3Esuf31iBA-14" target="xHDySf0-of3Esuf31iBA-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-14" value="点餐架构1.0：点餐小程序化建设" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-14" value="点餐架构1.0：点餐小程序化建设" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="801" y="6251" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-16" value="1. 负责购物车和整个下单链路小程序化；&lt;br&gt;2. 负责基于Lux状态管理方案解决多页面状态共享、组件间通信繁琐、业务逻辑模块耦合问题；过程中沉淀了一些实现原理文档并在组内分享&lt;br&gt;3. 此外，还负责推动点餐小程序投放到多端问题，除了推动基础侧解决外，还总结出一些多端共性问题解决方案并分享给组内其他业务团队使用；&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;dashed=1;strokeColor=#333333;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-16" value="1. 负责购物车和整个下单链路小程序化；&lt;br&gt;2. 负责基于Lux状态管理方案解决多页面状态共享、组件间通信繁琐、业务逻辑模块耦合问题；过程中沉淀了一些实现原理文档并在组内分享&lt;br&gt;3. 此外，还负责推动点餐小程序投放到多端问题，除了推动基础侧解决外，还总结出一些多端共性问题解决方案并分享给组内其他业务团队使用；&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;dashed=1;strokeColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="526" y="6349.25" width="297" height="108.5" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-19" target="xHDySf0-of3Esuf31iBA-26">
+        <mxCell id="xHDySf0-of3Esuf31iBA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHDySf0-of3Esuf31iBA-19" target="xHDySf0-of3Esuf31iBA-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-19" value="点餐架构3.0升级：点餐插件化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-19" value="点餐架构3.0升级：点餐插件化" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1310" y="6250" width="131.5" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-21" target="xHDySf0-of3Esuf31iBA-24">
+        <mxCell id="xHDySf0-of3Esuf31iBA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHDySf0-of3Esuf31iBA-21" target="xHDySf0-of3Esuf31iBA-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-21" value="点餐架构2.0: 点餐组件化建设" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-21" value="点餐架构2.0: 点餐组件化建设" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1047" y="6251" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-24" value="1. 负责整个点餐组件化方案设计 &amp;amp; 落地实现；&lt;br&gt;2. 负责通用功能组件的重构以及抽取；&lt;br&gt;3. 组件体验优化方面，除了常规优化之外，基于分批+懒渲染、分类联动重构方案 整个首屏体感耗时降低1s&amp;nbsp;&lt;br&gt;项目成果：&lt;br&gt;1. 沉淀餐饮服务组件市场，平台点餐、kfc666桶点餐已经接入使用&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;strokeColor=#464747;align=left;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-24" value="1. 负责整个点餐组件化方案设计 &amp;amp; 落地实现；&lt;br&gt;2. 负责通用功能组件的重构以及抽取；&lt;br&gt;3. 组件体验优化方面，除了常规优化之外，基于分批+懒渲染、分类联动重构方案 整个首屏体感耗时降低1s&amp;nbsp;&lt;br&gt;项目成果：&lt;br&gt;1. 沉淀餐饮服务组件市场，平台点餐、kfc666桶点餐已经接入使用&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;strokeColor=#464747;align=left;" parent="1" vertex="1">
           <mxGeometry x="887" y="6349.25" width="274" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-26" value="1.&amp;nbsp; 负责点餐插件化研发支撑0-&amp;gt;1 建设；主要是解决插件框架侧限制和插件编译构建研发体验问题；&lt;br&gt;2. 研发提效方面：&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;2.1. 负责alsc-plugin-cli 插件预编译工具的配套工具建设：接入alsc-mor适配点餐插件投放到微信侧；多环境预览以及一键上传多端体验包能力；&lt;br&gt;&amp;nbsp;2.2. 一码多KA 建设：主题样式规范、功能差异配置抽象化 以及基于原先组件化 实现多业务形态组件来满足KA定制诉求；&lt;br&gt;&amp;nbsp;2.3. 为了降低KA接入成本，实现了小程序插件Web配置预览平台，后续KA接入时只需要让产品or运营配置即可完成，业务小程序无须改动代码；&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;1.&amp;nbsp;&lt;span&gt;业务：多家头部品牌KA订购自提点餐插件服务；日订单量&lt;/span&gt;&lt;strong&gt;10w+&lt;br&gt;&lt;/strong&gt;&lt;span&gt;2. 技术：沉淀本地生活小程序插件预编译工具&lt;/span&gt;&lt;code style=&quot;font-size: inherit ; background-color: rgba(0 , 0 , 0 , 0.06) ; padding: 0px 2px ; border: 1px solid rgba(0 , 0 , 0 , 0.08) ; border-radius: 2px ; line-height: inherit ; overflow-wrap: break-word&quot;&gt;alsc-plugin-cli&lt;/code&gt;&lt;span&gt;,目前已接入新的kbworkcenter构建平台&lt;/span&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-26" value="1.&amp;nbsp; 负责点餐插件化研发支撑0-&amp;gt;1 建设；主要是解决插件框架侧限制和插件编译构建研发体验问题；&lt;br&gt;2. 研发提效方面：&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;2.1. 负责alsc-plugin-cli 插件预编译工具的配套工具建设：接入alsc-mor适配点餐插件投放到微信侧；多环境预览以及一键上传多端体验包能力；&lt;br&gt;&amp;nbsp;2.2. 一码多KA 建设：主题样式规范、功能差异配置抽象化 以及基于原先组件化 实现多业务形态组件来满足KA定制诉求；&lt;br&gt;&amp;nbsp;2.3. 为了降低KA接入成本，实现了小程序插件Web配置预览平台，后续KA接入时只需要让产品or运营配置即可完成，业务小程序无须改动代码；&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;1.&amp;nbsp;&lt;span&gt;业务：多家头部品牌KA订购自提点餐插件服务；日订单量&lt;/span&gt;&lt;strong&gt;10w+&lt;br&gt;&lt;/strong&gt;&lt;span&gt;2. 技术：沉淀本地生活小程序插件预编译工具&lt;/span&gt;&lt;code style=&quot;font-size: inherit ; background-color: rgba(0 , 0 , 0 , 0.06) ; padding: 0px 2px ; border: 1px solid rgba(0 , 0 , 0 , 0.08) ; border-radius: 2px ; line-height: inherit ; overflow-wrap: break-word&quot;&gt;alsc-plugin-cli&lt;/code&gt;&lt;span&gt;,目前已接入新的kbworkcenter构建平台&lt;/span&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1192" y="6349.25" width="293.25" height="279.25" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-28" value="1. 负责日常店铺小程序功能需求开发、研发提效方面工作；&lt;br&gt;2. 正在建设中的店铺小程序动态投放能力；" style="whiteSpace=wrap;html=1;rounded=0;align=left;dashed=1;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-28" value="1. 负责日常店铺小程序功能需求开发、研发提效方面工作；&lt;br&gt;2. 正在建设中的店铺小程序动态投放能力；" style="whiteSpace=wrap;html=1;rounded=0;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1644.25" y="6286" width="140.5" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-30" target="xHDySf0-of3Esuf31iBA-36">
+        <mxCell id="xHDySf0-of3Esuf31iBA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHDySf0-of3Esuf31iBA-30" target="xHDySf0-of3Esuf31iBA-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-30" value="1. 负责公司移动客户端组件化落地实现" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-30" value="1. 负责公司移动客户端组件化落地实现" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1877" y="6176" width="120" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-32" target="xHDySf0-of3Esuf31iBA-40">
+        <mxCell id="xHDySf0-of3Esuf31iBA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHDySf0-of3Esuf31iBA-32" target="xHDySf0-of3Esuf31iBA-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-32" value="3. 项目热修复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-32" value="3. 项目热修复" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2364" y="6175" width="118" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHDySf0-of3Esuf31iBA-34" target="xHDySf0-of3Esuf31iBA-38">
+        <mxCell id="xHDySf0-of3Esuf31iBA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHDySf0-of3Esuf31iBA-34" target="xHDySf0-of3Esuf31iBA-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-34" value="2. dl-pack 移动端编包工具建设" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-34" value="2. dl-pack 移动端编包工具建设" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2147" y="6178" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-36" value="1. 组件化方案设计 &amp;amp; 落地实现：&lt;br&gt;&amp;nbsp; 1.1 自定义gradle-plugin 解决祖籍爱你独立开发调试问题、自定义Transform并结合Javassit工具解决组件库声明周期监听；&lt;br&gt;&amp;nbsp; 1.2 基于javaSPI 基于解决组件之间交互；接入开源方案arouter 实现跨组件跳转&lt;br&gt;2. 负责核心功能组件开发 比如：网络库、公共通用自定义view视图等&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;沉淀了25+通用基础组件库，公司其他产品先均在使用；" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-36" value="1. 组件化方案设计 &amp;amp; 落地实现：&lt;br&gt;&amp;nbsp; 1.1 自定义gradle-plugin 解决祖籍爱你独立开发调试问题、自定义Transform并结合Javassit工具解决组件库声明周期监听；&lt;br&gt;&amp;nbsp; 1.2 基于javaSPI 基于解决组件之间交互；接入开源方案arouter 实现跨组件跳转&lt;br&gt;2. 负责核心功能组件开发 比如：网络库、公共通用自定义view视图等&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;沉淀了25+通用基础组件库，公司其他产品先均在使用；" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1829.5" y="6289" width="215" height="215.5" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-38" value="1. 负责整个打包平台实现；&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;1. 提升开发效率，繁琐可循的打包转移给测试" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-38" value="1. 负责整个打包平台实现；&lt;br&gt;&lt;br&gt;项目成果：&lt;br&gt;1. 提升开发效率，繁琐可循的打包转移给测试" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2122" y="6286" width="216" height="225.5" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-40" value="1. 负责接入tinker&lt;br&gt;2. 负责热补丁管理平台开发 包括补丁接口&lt;br&gt;&lt;br&gt;项目成果：发现问题能够及时修复，线上bug反馈率降低55%" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-40" value="1. 负责接入tinker&lt;br&gt;2. 负责热补丁管理平台开发 包括补丁接口&lt;br&gt;&lt;br&gt;项目成果：发现问题能够及时修复，线上bug反馈率降低55%" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="2394" y="6286" width="181" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-42" value="主要是负责一些基础平台建设工作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-42" value="主要是负责一些基础平台建设工作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="2157" y="6128" width="229" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xHDySf0-of3Esuf31iBA-43" value="除了业务线开发、还负责一些研发支撑以及性能优化工作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="xHDySf0-of3Esuf31iBA-43" value="除了业务线开发、还负责一些研发支撑以及性能优化工作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="6176" width="229" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--1" value="向下滑动时" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.0328" y="12" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1648" y="2934" as="sourcePoint" />
+            <mxPoint x="1770" y="2934" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WnfxUmxEgMDg4sNDH-A--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1940" y="2934" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--5" value="top" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WnfxUmxEgMDg4sNDH-A--4">
+          <mxGeometry x="-0.2857" y="1" relative="1" as="geometry">
+            <mxPoint x="3" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WnfxUmxEgMDg4sNDH-A--2" target="WnfxUmxEgMDg4sNDH-A--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--15" value="bottom" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WnfxUmxEgMDg4sNDH-A--14">
+          <mxGeometry x="-0.12" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--2" value="当前停留状态" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="2884" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WnfxUmxEgMDg4sNDH-A--6" target="WnfxUmxEgMDg4sNDH-A--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--9" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WnfxUmxEgMDg4sNDH-A--8">
+          <mxGeometry x="-0.0429" y="-2" relative="1" as="geometry">
+            <mxPoint x="-0.5" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WnfxUmxEgMDg4sNDH-A--6" target="WnfxUmxEgMDg4sNDH-A--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--12" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WnfxUmxEgMDg4sNDH-A--11">
+          <mxGeometry x="-0.24" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--6" value="判断scroll-view scrollTop&lt;br&gt;=== 0" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1940.5" y="2884" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--7" value="1. 禁用&lt;br&gt;scroll-view 滑动&lt;br&gt;" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2110.5" y="2904" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--10" value="1. 禁用movable-area 滑动" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1930.5" y="3084" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--13" value="nothing" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="3084" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--16" value="向上边滑动时" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.0328" y="12" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="3288" as="sourcePoint" />
+            <mxPoint x="1752" y="3288" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WnfxUmxEgMDg4sNDH-A--21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1922" y="3288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--18" value="top" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WnfxUmxEgMDg4sNDH-A--17">
+          <mxGeometry x="-0.2857" y="1" relative="1" as="geometry">
+            <mxPoint x="3" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WnfxUmxEgMDg4sNDH-A--21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1802" y="3438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--20" value="bottom" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WnfxUmxEgMDg4sNDH-A--19">
+          <mxGeometry x="-0.12" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--21" value="当前停留状态" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1752" y="3238" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--37" value="1.&amp;nbsp; 禁用movable-area 滑动" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1925.5" y="3258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnfxUmxEgMDg4sNDH-A--38" value="1. 禁用&lt;br&gt;scroll-view 滑动&lt;br&gt;" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="3439" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
