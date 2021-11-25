@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T14:26:55.403Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VDcLe0lOdyAfYHI9Eu7O" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T14:36:08.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="4w8_8OlAjhBCqZidT6Jf" version="15.8.6" type="github">
   <diagram id="wJ10x5JF8MDACN2bpLX_" name="第 1 页">
     <mxGraphModel dx="2466" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -2519,19 +2519,37 @@
           <mxGeometry x="2354.25" y="9702" width="89.75" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xgQBPt90jq4hohmAJCj6-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1632" y="9737" width="456" height="82" as="geometry" />
+          <mxGeometry x="1632" y="9752" width="456" height="67" as="geometry" />
         </mxCell>
         <mxCell id="xgQBPt90jq4hohmAJCj6-96" value="base-template" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="9737" width="134" height="30" as="geometry" />
+          <mxGeometry x="1610" y="9746" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xgQBPt90jq4hohmAJCj6-97" value="event：switch tab、lifeCycle、" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1647.5" y="9776" width="152.5" height="34" as="geometry" />
+          <mxGeometry x="1647.5" y="9776" width="128.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xgQBPt90jq4hohmAJCj6-98" value="tab height&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1813" y="9776" width="82" height="34" as="geometry" />
+          <mxGeometry x="1783" y="9776" width="82" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xgQBPt90jq4hohmAJCj6-99" value="scroll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1898.25" y="9776" width="81" height="34" as="geometry" />
+          <mxGeometry x="1870" y="9776" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="xgQBPt90jq4hohmAJCj6-100" value="template-decision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1959.5" y="9776" width="81" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="xgQBPt90jq4hohmAJCj6-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1797" y="9679" width="291" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="xgQBPt90jq4hohmAJCj6-102" value="tab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1753" y="9679" width="134" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgQBPt90jq4hohmAJCj6-103" value="tabManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1839.25" y="9702" width="94" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="xgQBPt90jq4hohmAJCj6-104" value="other" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1642.5" y="9699" width="122" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="xgQBPt90jq4hohmAJCj6-105" value="tabPresenter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1955" y="9702" width="122" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
