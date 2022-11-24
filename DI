@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T14:54:16.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="n0p5ZFs1M5qBmdt89ANa" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T14:57:50.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3nhtrdtCv3_K83s1SAhQ" version="20.4.1" type="github">
   <diagram id="KxxGO9SyOoVYxRkzHgJR" name="第 1 页">
     <mxGraphModel dx="2466" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -199,6 +199,9 @@
         </mxCell>
         <mxCell id="cvSPL9kTEvdh1Lc9rTDM-75" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;subscriber&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="701" y="862" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cvSPL9kTEvdh1Lc9rTDM-77" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;_getShimmedPropsWithData&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1193" y="890" width="183" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
