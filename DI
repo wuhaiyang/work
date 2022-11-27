@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T11:11:59.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GVcwyv3TvtEB36TIOWM0" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T11:12:23.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Eb9oapvhnJkGsuk4nKEI" version="20.6.0" type="github">
   <diagram id="KxxGO9SyOoVYxRkzHgJR" name="第 1 页">
-    <mxGraphModel dx="2183" dy="593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2483" dy="593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,7 +352,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2jPJmUmP-_tl5iO-2hpA-46" value="图表容器封装：&lt;br&gt;整个图表容器包含三部分：toolbar 头部通用工具栏、图表筛选区（筛选器、分时/累计、阅读端粒度切换）、图表渲染区（可视&amp;amp;增强分析区块、图例区、图表内容区）&lt;br&gt;&lt;br&gt;&lt;br&gt;Container:&amp;nbsp;&amp;nbsp;&lt;br&gt;是什么？由什么构成？为什么存在它？解决什么问题？&lt;br&gt;1. 负责策略加载pc/mobile container 视图容器，api只暴露Container，内部抹平pc/mobile&lt;br&gt;2. 嵌套pc、mobile公共父组件：性能上报、单图模式&lt;br&gt;&lt;br&gt;PCContainer ：&lt;br&gt;pc端Container 容器实现，主要是封装头部toolBar工具栏、图表筛选区、图表数据加载状态与真实图表渲染区管理 实现，这三个部分都会暴露一些option供自定义传入实现，pc端图表的公共业务功能统一用勾子实现 并传入&lt;br&gt;&lt;br&gt;解决：图表容器的公共部分抽取并封装实现，规范化业务接入，降低接入成本&lt;br&gt;&lt;br&gt;&lt;br&gt;MobileContainer：&lt;br&gt;和pcCotainer 差不多，只不过额外包了一层mobileDetail，用来适配移动端全屏模式下，以及旋转/非旋转的状态 ，添加头部导航栏 + 底部工具栏（更多、切换维度和指标、筛选器）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="911" y="1017" width="524" height="341" as="geometry" />
+          <mxGeometry x="861.5" y="1292" width="524" height="341" as="geometry" />
         </mxCell>
         <mxCell id="2jPJmUmP-_tl5iO-2hpA-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="909" y="2068" width="570" height="465" as="geometry" />
