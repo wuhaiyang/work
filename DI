@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T11:01:53.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DziH2whyKk0E90IhwDlF" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T11:11:59.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GVcwyv3TvtEB36TIOWM0" version="20.6.0" type="github">
   <diagram id="KxxGO9SyOoVYxRkzHgJR" name="第 1 页">
     <mxGraphModel dx="2183" dy="593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -448,7 +448,7 @@
           <mxGeometry x="1319" y="1972" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2jPJmUmP-_tl5iO-2hpA-87" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;strong&gt;&lt;span class=&quot;ne-text&quot;&gt;适配在真实移动端设备全屏访问（单图模式）访问，&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;strong&gt;&lt;span class=&quot;ne-text&quot;&gt;旋转or 非旋转 模式下，添加头部导航栏、底部工具栏&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="1922" width="134" height="99" as="geometry" />
+          <mxGeometry x="1556" y="1912" width="134" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2jPJmUmP-_tl5iO-2hpA-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="927" y="2220" width="536" height="306" as="geometry" />
@@ -456,8 +456,9 @@
         <mxCell id="2jPJmUmP-_tl5iO-2hpA-89" value="loadingMask" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1403" y="2499" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2jPJmUmP-_tl5iO-2hpA-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2jPJmUmP-_tl5iO-2hpA-90" target="2jPJmUmP-_tl5iO-2hpA-49">
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2jPJmUmP-_tl5iO-2hpA-178" target="2jPJmUmP-_tl5iO-2hpA-49">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1656" y="2455" as="sourcePoint" />
             <mxPoint x="1597" y="2452.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -623,7 +624,7 @@
           <mxGeometry x="2311" y="2312.5" width="303" height="286" as="geometry" />
         </mxCell>
         <mxCell id="2jPJmUmP-_tl5iO-2hpA-142" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;useSetupEvaMobile&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2328" y="2317.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="2340" y="2317.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2jPJmUmP-_tl5iO-2hpA-143" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;分时/累计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2325" y="2370" width="101" height="30" as="geometry" />
@@ -703,6 +704,36 @@
         </mxCell>
         <mxCell id="2jPJmUmP-_tl5iO-2hpA-163" value="useEVAChartApi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1864" y="1784" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-168" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="794" y="1712" width="755" height="833" as="geometry" />
+        </mxCell>
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-171" value="HyperChartSingleMode" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="849" y="1825" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-172" value="其他公共功能父组件嵌套" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1193" y="1822" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-173" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="793" y="1798.38" as="sourcePoint" />
+            <mxPoint x="1551" y="1798" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-174" value="切换维度/指标勾子，制作端配置 -&amp;gt; 状态更新" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="855" y="1731" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-175" value="placeHolderState Hook" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="1731" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-176" value="PerformanceLog wrap children?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1354" y="1731" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-177" value="&lt;b&gt;Container&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="792" y="1678" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2jPJmUmP-_tl5iO-2hpA-178" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1661" y="2313" width="11" height="233" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
